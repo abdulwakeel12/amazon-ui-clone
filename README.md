@@ -18,7 +18,7 @@ August 2024 – August 2024
 
 ## 🌐 Live Preview
 
-👉 [View Live Site](https://abdulwakeel12.github.io/amazon-ui-clone/)
+👉 [View Live Site](https://abdulwakeel12.github.io/ecommerce-ui-clone/)
 
 ## 💡 Features
 
